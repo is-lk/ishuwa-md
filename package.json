@@ -1,12 +1,12 @@
 {
-"name": "newAcc",
+"name": "ishan-md",
 "version": "2.1.2",
-"description": "newAcc has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+"description": "ishan-md has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
 "main": "start.js",
 "scripts": {
-"start": "pm2 start start.js --deep-monitoring --attach --name newAcc",
-"stop": "pm2 stop newAcc",
-"restart": "pm2 restart newAcc"
+"start": "pm2 start start.js --deep-monitoring --attach --name ishan-md",
+"stop": "pm2 stop ishan-md",
+"restart": "pm2 restart ishan-md"
 },
 "dependencies": {
 "@whiskeysockets/baileys": "git+https://github.com/PMD-API-UPDATE/Baileys-6.6.0.git",
